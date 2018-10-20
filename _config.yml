@@ -18,7 +18,7 @@ remote_theme : mmistakes/jekyll-theme-basically-basic
 minimal_mistakes_skin : "night"
 
 lang: en-US
-title: My Awesome Site
+title: JY's Blog
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
