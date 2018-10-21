@@ -1,7 +1,7 @@
 ---
 title: "cat"
 image: 
-  path: /assets/images/cat.jpg
+  path: /assets/images/cat-lg.jpg
   thumbnail: /assets/images/cat.jpg
   caption: "cat"
 ---
