@@ -2,8 +2,7 @@
 title: "About"
 layout: about
 ---
-
-### About JY  
+##JY  
 
 <br>
 
