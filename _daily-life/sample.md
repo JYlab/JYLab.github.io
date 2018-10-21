@@ -1,9 +1,9 @@
 ---
-title: "sample image"
+title: "Image sample"
 image: 
-  path: /assets/images/cat.jpg
-  thumbnail: /assets/images/cat.jpg
-  caption: "cat img sample"
+  path: /assets/images/peanut-butter-cookies-lg.jpg
+  thumbnail: /assets/images/peanut-butter-cookies-400x200.jpg
+  caption: "sample"
 ---
 
-sample image
+샘플 이미지
