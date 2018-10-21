@@ -81,7 +81,7 @@ exclude:
   
 # Collections
 collections:
-  recipes:
+  daily-life:
     output: true
     permalink: /:collection/:path/
 
