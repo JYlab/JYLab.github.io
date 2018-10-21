@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 remote_theme : mmistakes/jekyll-theme-basically-basic
-minimal_mistakes_skin : "night"
+minimal_mistakes_skin : "dafault"
 
 lang: en-US
 title: JY's Blog
