@@ -5,6 +5,7 @@ layout: about
 
 ### About JY  
 
+<br>
 
 ### **커리어**
 * * *
