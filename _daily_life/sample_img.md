@@ -1,5 +1,5 @@
 ---
-title: "Peanut Butter Cookies"
+title: "sample imag"
 image: 
   path: /assets/images/cat.jpeg
   thumbnail: /assets/images/cat.jpeg
