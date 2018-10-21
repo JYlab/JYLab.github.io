@@ -2,7 +2,6 @@
 title: "About"
 layout: about
 ---
-## JY  
 
 
 ### **커리어**
