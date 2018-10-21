@@ -29,7 +29,7 @@ author:
   picture:
 twitter_username:
 github_username:
-logo: "/assets/images/amine-ounnas-180287.jpg" # path of site logo, e.g. "/assets/images/logo.png"
+logo: "/assets/images/JY.png"  # path of site logo, e.g. "/assets/images/logo.png"
 search: true #, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
