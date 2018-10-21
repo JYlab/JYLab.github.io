@@ -6,3 +6,4 @@ collection: daily-life
 entries_layout: grid
 ---
 
+TEST
