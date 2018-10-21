@@ -1,8 +1,8 @@
 ---
-title: "sample imag"
+title: "sample image"
 image: 
-  path: /assets/images/cat.jpeg
-  thumbnail: /assets/images/cat.jpeg
+  path: /assets/images/cat.jpg
+  thumbnail: /assets/images/cat.jpg
   caption: "cat img sample"
 ---
 
