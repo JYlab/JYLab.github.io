@@ -66,7 +66,7 @@ About JY
 - 2017년도
   + 다크웹에 유출된 신용카드 정보 크롤러 개발 및 모니터링웹 구축
 
-     ((http://xCredit.stealien.com](http://xCredit.stealien.com/))
+     (http://xCredit.stealien.com)
 
 
 
