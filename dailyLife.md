@@ -1,8 +1,8 @@
 ---
 title: Daily life
 layout: collection
-permalink: /daily_life/
-collection: daily_life
+permalink: /dailyLife/
+collection: dailyLife
 entries_layout: grid
 ---
 
