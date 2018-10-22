@@ -1,7 +1,7 @@
 ---
 title: "cat"
 image: 
-  path: /assets/images/cat-lg.jpg
+  path: /assets/images/peanut-butter-cookies-lg.jpg
   thumbnail: /assets/images/cat.jpg
   caption: "cat"
 ---
