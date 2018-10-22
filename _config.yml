@@ -99,7 +99,7 @@ exclude:
   
 # Collections
 collections:
-  daily_life:
+  dailyLife:
     output: true
     permalink: /:collection/:path/
 
@@ -113,10 +113,10 @@ defaults:
       layout: post
       read_time: true
       
-  # _daily-life
+  # _dailyLife
   - scope:
-      path: "_daily_life"
-      type: daily_life
+      path: "_dailyLife"
+      type: dailyLife
     values:
       layout: post
       read_time: true
