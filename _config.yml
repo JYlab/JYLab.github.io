@@ -30,10 +30,6 @@ author:
 twitter_username:
 github_username:
 logo: "/assets/images/JY.png"  # path of site logo, e.g. "/assets/images/logo.png"
-
-disqus:
-  shortname: basically-basic-theme
-
 search: true #, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
@@ -42,20 +38,6 @@ algolia:
   index_name: # YOUR_INDEX_NAME
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-incremental: false
-
-# Plugins
-plugins: # previously gems
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-remote-theme
 
 # Build settings
 markdown: kramdown
@@ -113,10 +95,3 @@ defaults:
       layout: post
       read_time: true
       
-  # _dailyLife
-  - scope:
-      path: "_dailyLife"
-      type: dailyLife
-    values:
-      layout: post
-      read_time: true
