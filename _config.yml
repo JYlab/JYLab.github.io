@@ -113,3 +113,10 @@ defaults:
       layout: post
       read_time: true
       
+  # _daily-life
+  - scope:
+      path: "_daily-life"
+      type: daily-life
+    values:
+      layout: post
+      read_time: true
