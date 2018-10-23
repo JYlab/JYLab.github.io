@@ -90,7 +90,7 @@ collections:
 snippet_post:
   snippet:
     output: true
-    permalink: /:post/:path/
+    permalink: /:categories/:year/:month/:day/:title:output_ext
  
  
 # Front Matter Defaults
