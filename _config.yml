@@ -87,19 +87,17 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+posts:
+  snippet:
+    output: true
+    permalink: /snippet/
+ 
  
 # Front Matter Defaults
 defaults:
   # _posts
   - scope:
       path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
-      
-  - scope:
-      path: "_snippet"
       type: posts
     values:
       layout: post
