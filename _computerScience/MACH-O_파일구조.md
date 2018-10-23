@@ -13,6 +13,9 @@ MACH-O의 스트럭쳐입니다. <br>
 IPA 내의 메인 바이너리를 난독화시키는 것과 관련된 공부를  때, <br>
 눈에 잘 들어와서 너무 좋았습니다. <br>
 
+
 ![macho](https://jylab.github.io/assets/images/macho.jpg)
+
+(출처: https://imgur.com/a/PbN8H#0)
 
 
