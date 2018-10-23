@@ -95,3 +95,10 @@ defaults:
       layout: post
       read_time: true
       
+  # _dailyLife
+  - scope:
+      path: "_dailyLife"
+      type: dailyLife
+    values:
+      layout: post
+      read_time: true
