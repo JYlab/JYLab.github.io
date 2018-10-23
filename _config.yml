@@ -90,7 +90,7 @@ collections:
 posts:
   snippet:
     output: true
-    permalink: /:posts/:path/
+    permalink: /:post/:path/
 
  
 # Front Matter Defaults
