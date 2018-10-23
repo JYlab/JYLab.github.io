@@ -1,8 +1,8 @@
 ---
 title: "moon"
 image: 
-  path: /assets/images/moon.jpeg
-  thumbnail: /assets/images/moon.jpeg
+  path: /assets/images/moon.jpg
+  thumbnail: /assets/images/moon.jpg
   caption: "moon"
 ---
 
