@@ -4,7 +4,7 @@ layout: about
 ---
 
 
-### **커리어**
+### **Career**
 * * *
 - 2017.08 ~ 현재
   + [스틸리언](https://www.stealien.com/) 근무  
