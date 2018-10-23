@@ -1,5 +1,5 @@
 ---
-title: "태그"
+title: "tag"
 layout: tags
 permalink: /tags/
 ---
