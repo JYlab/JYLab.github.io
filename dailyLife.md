@@ -1,5 +1,5 @@
 ---
-title: Daily life
+title: 
 layout: collection
 permalink: /dailyLife/
 collection: dailyLife
