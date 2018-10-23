@@ -80,7 +80,12 @@ exclude:
   - /docs # ignore Basically Basic sample site
   - /example # ignore Basically Basic dev site
   
-  
+# Posts
+posts:
+  snippet:
+    output: true
+    permalink: /:posts/:path/
+
 # Collections
 collections:
   dailyLife:
