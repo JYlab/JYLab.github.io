@@ -86,13 +86,12 @@ collections:
   dailyLife:
     output: true
     permalink: /:collection/:path/
-
-snippet_post:
+    
   snippet:
     output: true
-    permalink: /:categories/:year/:month/:day/:title:output_ext
- 
- 
+    permalink: /:collection/:path/
+
+
 # Front Matter Defaults
 defaults:
   # _posts
