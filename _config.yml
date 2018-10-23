@@ -87,7 +87,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-postsss:
+snippet_post:
   snippet:
     output: true
     permalink: /:post/:path/
