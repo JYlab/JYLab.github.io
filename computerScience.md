@@ -1,6 +1,9 @@
 ---
 title: 컴퓨터 관련
-layout: posts
+layout: collection
 permalink: /computerScience/
+collection: computerScience
 entries_layout: list
 ---
+
+
