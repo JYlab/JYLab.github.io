@@ -90,6 +90,10 @@ collections:
   snippet:
     output: true
     permalink: /:collection/:path/
+    
+  computerScience:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Front Matter Defaults
@@ -118,6 +122,14 @@ defaults:
       layout: post
       read_time: true
       
+  # _computerScience
+  - scope:
+      path: "_computerScience"
+      type: computerScience
+    values:
+      layout: post
+      read_time: true
+
 
 
       
