@@ -1,6 +1,6 @@
 ---
 title: code snippet
-layout: snippet_post
+layout: post
 permalink: /snippet/
 entries_layout: list
 ---
