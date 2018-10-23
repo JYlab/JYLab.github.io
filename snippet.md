@@ -1,8 +1,12 @@
 ---
 title: code snippet
-layout: posts
+layout: collection
 permalink: /snippet/
+collection: snippet
 entries_layout: list
 ---
 
+
 test
+
+
