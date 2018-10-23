@@ -86,11 +86,13 @@ collections:
   dailyLife:
     output: true
     permalink: /:collection/:path/
-    
+
+posts:
   snippet:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:posts/:path/
 
+ 
 # Front Matter Defaults
 defaults:
   # _posts
@@ -109,10 +111,4 @@ defaults:
       layout: post
       read_time: true
       
-  # _snippet
-  - scope:
-      path: "_snippet"
-      type: snippet
-    values:
-      layout: post
-      read_time: true
+
