@@ -4,7 +4,7 @@ layout: collection
 permalink: /dailyLife/
 collection: dailyLife
 sort_by: date
-sort_order: forward
+sort_order: reverse
 entries_layout: grid
 ---
 
