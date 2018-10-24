@@ -53,7 +53,7 @@ feed:
   path: atom.xml
   
 disqus:
-  shortname: junyeonglee
+  shortname: https-jylab-github-io
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
