@@ -4,7 +4,6 @@ layout: collection
 permalink: /dailyLife/
 collection: dailyLife
 entries_layout: grid
-sort_order: reverse
 ---
 
 
