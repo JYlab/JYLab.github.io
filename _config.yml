@@ -85,6 +85,7 @@ exclude:
 collections:
   dailyLife:
     output: true
+    sort_order: reverse
     permalink: /:collection/:path/
     
   snippet:
