@@ -1,5 +1,5 @@
 ---
-title: "MACH-O 파일구조"
+title: "CodeDirectory 구조체"
 categories:
   - OSX
 tags:
