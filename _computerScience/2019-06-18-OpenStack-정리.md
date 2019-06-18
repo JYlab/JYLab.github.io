@@ -9,7 +9,7 @@ last_modified_at: 2019-06-18T11:50:52-05:00
 ---
 
 
-![openstack](https://jylab.github.io/assets/images/openstack.png)
+![openstack](https://jylab.github.io/assets/images/openstack.jpg)
 
 
 ## OpenStack 정리
