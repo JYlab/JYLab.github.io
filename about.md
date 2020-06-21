@@ -25,7 +25,7 @@ layout: about
 ### **R&D 프로젝트**
 * * *
 
-- 2018.07 ~ 현재
+- 2018.07 ~ 2018.12
   + 스틸리언 & SKT 공동개발과제 참여  
      (WhiteBoxCryptography)  
 <br>
