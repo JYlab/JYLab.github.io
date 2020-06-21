@@ -24,6 +24,10 @@ layout: about
   
 - 다룰 줄 아는 프로그래밍 언어 (배포 경험이 있는 것을 기준)
   + C/C++, Java, Objective-C, Swift, Python, Javascript
+<br>
+  
+- 최근 관심사 (2020.06)
+  + LLVM Optimization Pass 모듈 개발
 
   
 <br> 
