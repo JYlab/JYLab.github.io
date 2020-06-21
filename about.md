@@ -19,6 +19,12 @@ layout: about
 ### **Experience**
 * * *
 - 주로 보안프로그램 개발과 관련된 여러가지 일들을 하고있음
+  + iOS 앱 보안솔루션, WhiteBox 암호모듈, 보안키패드, 백신 등
+<br>
+  
+- 다룰 줄 아는 프로그래밍 언어 (배포 경험이 있는 것을 기준)
+  + C/C++, Java, Objective-C, Swift, Python, Javascript
+
   
 <br> 
 
