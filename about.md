@@ -8,6 +8,7 @@ layout: about
 * * *
 - 2020.09 ~ 
   + ??? 근무
+<br>
 
 - 2017.08 ~ 2020.09
   + [스틸리언](https://www.stealien.com/) 근무  
