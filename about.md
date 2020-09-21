@@ -6,8 +6,8 @@ layout: about
 
 ### **Career**
 * * *
-- 2020.09 ~ 
-  + ??? 근무
+- 2020.09 ~ 현재
+  + [NHN](https://www.nhn.com/ko/index.nhn) 근무
   
 <br>
 
