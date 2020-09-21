@@ -7,9 +7,10 @@ layout: about
 ### **Career**
 * * *
 - 2020.09 ~ 현재
-  + [NHN](https://www.nhn.com/ko/index.nhn) 근무
-<br> 
- 
+  + [NHN](https://www.nhn.com/ko/index.nhn) 근무  
+<br>  
+
+
 - 2017.08 ~ 2020.09
   + [스틸리언](https://www.stealien.com/) 근무  
       (메인포지션: 모바일 보안솔루션 앱수트 개발팀)  
