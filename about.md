@@ -8,7 +8,6 @@ layout: about
 * * *
 - 2020.09 ~ 현재
   + [NHN](https://www.nhn.com/ko/index.nhn) 근무
-  
 <br>
 
 - 2017.08 ~ 2020.09
