@@ -80,6 +80,16 @@ layout: about
 
 <br>
 
+
+### **특허**
+* * *
+
+- '화이트박스 암호를 이용한 데이터 암호화/복호화 방법 및 장치' 발명자
+  + ![wbc_patent](https://jylab.github.io/assets/images/wbc_patent.jpg)
+    
+
+<br>
+
 ### **etc.**
 * * *
 
