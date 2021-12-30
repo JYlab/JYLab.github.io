@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme : mmistakes/jekyll-theme-basically-basic
+remote_theme : "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 
 lang: en-US
@@ -43,7 +43,7 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
