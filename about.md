@@ -93,7 +93,14 @@ layout: about
      (2017.08. 조기취업)
 <br>
 
+### **컨퍼런스 발표**
+* * *
 
+- 2022.12:  NHN Forward 기술 컨퍼런스 발표
+  + [모바일 해킹 사례와 NHN AppGuard를 활용한 대응 방안](https://forward.nhn.com/2022/sessions/26)
+<br>
+
+  
 ### **특허**
 * * *
 
