@@ -32,6 +32,10 @@ layout: about
 ### **Experience**
 * * *
 
+- 26년도 부터 Milvus 벡터DB를 클라우드 형태로 제공하기 위한 서비스 개발 진행
+<br>  
+
+
 - 23년도 부터 Spring 기반 백엔드 관련 직무를 수행 중 
 <br>  
 
@@ -41,13 +45,16 @@ layout: about
 <br>  
 
 
-- 다룰 줄 아는 프로그래밍 언어 (배포 경험이 있는 것을 기준)
-  + C/C++, Java, Objective-C, Swift, Python, Javascript
-<br>  
-  
+### **취약점 분석 및 제보 (개인 연구)**
+* * *
 
-- 최근 관심사 (2023.01)
-  + 클라우드DB 관련 도메인 지식 
+- Redis/Valkey 취약점 제보 ([CVE-2025-67733](https://nvd.nist.gov/vuln/detail/CVE-2025-67733)): 8.5 HIGH
+  + [Valkey Security Advisory (GHSA-p876-p7q5-hv2m)](https://github.com/valkey-io/valkey/security/advisories/GHSA-p876-p7q5-hv2m)
+  + [분석 게시글](https://meetup.nhncloud.com/posts/416)
+<br>  
+
+- Safari 취약점 제보 ([CVE-2026-64783](https://nvd.nist.gov/vuln/detail/CVE-2026-64783)): 8.8 HIGH
+  + [Apple 보안 업데이트](https://support.apple.com/ko-kr/128066)
 <br>  
 
 
@@ -126,6 +133,3 @@ layout: about
 - 2017년도
   + 다크웹에 유출된 신용카드 정보 크롤러 개발 및 모니터링웹 구축  
      [(http://xCredit.stealien.com)](http://xCredit.stealien.com/)
-
-
-
