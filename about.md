@@ -57,6 +57,11 @@ layout: about
   + [Apple 보안 업데이트](https://support.apple.com/ko-kr/128066)
 <br>  
 
+- macOS 취약점 제보 ([CVE-2026-43785](https://nvd.nist.gov/vuln/detail/cve-2026-43785)): 5.5 MEDIUM
+  + File Bookmark를 통한 샌드박스 이스케이프 취약점
+  + [Apple 보안 업데이트](https://support.apple.com/ko-kr/149035)
+<br>
+
 
 ### **R&D 프로젝트**
 * * *
