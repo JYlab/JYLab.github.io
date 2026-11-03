@@ -63,13 +63,13 @@ layout: about
 <br>
 
 
-- macOS RemoteManagement 취약점 제보 ([CVE-2026-112677](https://nvd.nist.gov/vuln/detail/CVE-2026-112677)): 7.8 HIGH (CVSS v3.1)
+- macOS RemoteManagement 취약점 제보 ([CVE-2026-112677](https://nvd.nist.gov/vuln/detail/CVE-2026-112677)): 7.8 HIGH
   + 시스템 권한으로 임의 코드를 실행할 수 있는 권한 검증 취약점
   + [Apple 보안 업데이트](https://support.apple.com/ko-kr/149521)
   + [CVSS 평가: CISA-ADP](https://www.cve.org/CVERecord?id=CVE-2026-112677)
 <br>
 
-- macOS Storage 취약점 제보 ([CVE-2026-112487](https://nvd.nist.gov/vuln/detail/CVE-2026-112487)): 7.8 HIGH (CVSS v3.1)
+- macOS Storage 취약점 제보 ([CVE-2026-112487](https://nvd.nist.gov/vuln/detail/CVE-2026-112487)): 7.8 HIGH
   + 경로 처리 검증 오류를 통한 루트 권한 상승 취약점
   + [Apple 보안 업데이트](https://support.apple.com/ko-kr/149521)
   + [CVSS 평가: CISA-ADP](https://www.cve.org/CVERecord?id=CVE-2026-112487)
@@ -81,8 +81,8 @@ layout: about
   + [공식 CVE 기록](https://www.cve.org/CVERecord?id=CVE-2026-112462)
 <br>
 
-- Linux 커널 io_uring 취약점 제보 ([CVE-2026-99227](https://nvd.nist.gov/vuln/detail/CVE-2026-99227)): 7.8 HIGH (CVSS v3.1)
-  + io_uring/waitid 취소 참조 카운터 오버플로로 인한 중복 완료 취약점
+- Linux 커널 io_uring 취약점 제보 ([CVE-2026-99227](https://nvd.nist.gov/vuln/detail/CVE-2026-99227)): 7.8 HIGH
+  + io_uring/waitid 취소 참조 카운터 오버플로로 인한 중복 완료 취약점 (LPE 익스플로잇)
   + [Linux 커널 패치 논의 (lore)](https://lore.kernel.org/io-uring/179243718143.3127071.15080151622998954631.b4-ty@b4/T/#t)
   + [CVSS 평가: Linux CNA](https://www.cve.org/CVERecord?id=CVE-2026-99227)
 <br>
